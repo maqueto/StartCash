@@ -79,7 +79,7 @@ Usuária intensa de smartphone. Gosta de notificações e lembretes. Valoriza de
 
 Descrição do fluxo.
 
-![Fluxo](./imagens/fluxo.png)
+![Fluxo](.fluxograma.svg)
 
 ---
 
@@ -87,7 +87,7 @@ Descrição do fluxo.
 
 Estrutura inicial das telas.
 
-![Wireframe](./imagens/wireframe1.png)
+![Wireframe](.StartCash.pdf)
 
 ---
 
@@ -95,7 +95,7 @@ Estrutura inicial das telas.
 
 Interface final do sistema.
 
-![Tela](./imagens/tela1.png)
+![Tela](.Captura de tela 2026-04-13 110024.png)
 
 
 ---
